@@ -1,0 +1,4 @@
+interface:
+  display_name: "yt-dlp"
+  short_description: "YouTube/Bilibili動画をMP4として保存"
+  default_prompt: "$yt-dlp を使って動画URLをMP4として保存してください。"
