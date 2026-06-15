@@ -1,0 +1,4 @@
+interface:
+  display_name: "TL Reader"
+  short_description: "ブルアカEXスキルTLを動画から抽出するレビュー補助"
+  default_prompt: "$tl-reader を使ってブルアカ動画からEXスキルTLを抽出してください。"

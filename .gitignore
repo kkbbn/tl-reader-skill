@@ -1,5 +1,6 @@
 !.claude/
 !.claude/skills/
 !.claude/skills/yt-dlp
+!.claude/skills/tl-reader
 __pycache__/
 *.py[cod]
